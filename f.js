@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     setInterval ('cursorAnimation()', 600);
 
-    var text = 'whois lars.re<br><br>Lars is a student.<br>Lars is a developer.<br><br>More coming soon.<br><br>Have a nice time.<br><br><br>Get in touch via <a href="https://t.me/lars_re" target="_blank">Telegram</a><br><br>Send me an email <a href="mailto:me@lars.re">me@lars.re</a><br><br><br>root@lars:~# ls<br><br><a href="https://alltubedownload.net/" target="_blank">recommended_youtube_downloader.sh</a><br><br><a href="https://lars.re/cdn/uploadportal.pdf">nextcloud_upload_portal_for_schools.pdf</a><br><br>root@lars:~#';
+    var text = 'whois lars.re<br><br>Lars is a student.<br>Lars is a developer.<br><br>More coming soon.<br><br>Have a nice time.<br><br><br>Get in touch via <a href="https://t.me/lars_re" target="_blank">Telegram</a><br><br>Send me an email <a href="mailto:me@lars.re">me@lars.re</a><br><br><br>root@lars:~# ls<br><br><a href="https://alltubedownload.net/" target="_blank">recommended_youtube_downloader.sh</a><br><br><br>root@lars:~#';
     type(text);
 });
 
